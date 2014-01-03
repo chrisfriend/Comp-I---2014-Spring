@@ -1,0 +1,70 @@
+\documentclass[10pt, oneside]{amsart}	%defines this as an article
+\usepackage{chrisfriend-comp} %provides formatting declarations for page, headers, figures, textcolor, comments, and bibliographic styles
+\usepackage{chrisfriend-OTF-support} %provides support for OTF system fonts; incompatible with latex, rtf2latex, & ht4latex
+%\usepackage[utf8]{inputenc} %support for smallamp?
+
+%\usepackage{tabularx}
+\usepackage{tabulary} % allows for the tables I make rubrics with
+%\usepackage{supertabular}
+\usepackage{xtab} % allows tables to span pages
+\usepackage{booktabs} % allows fancy lines in tables
+\usepackage{rotating} % allows landscape tables
+\usepackage{lscape} % allows rotated longtables
+\usepackage{multirow} % allows rowspanning
+\usepackage{enumitem} % helps with the overview
+\usepackage{acronym}
+\input{acronyms}
+%\usepackage{paralist}
+%\usepackage{draftwatermark}
+
+\title[Reading Response]{Rhetorical Reading Response}
+\chead{\scriptsize{\MakeUppercase{Reading Response}}}
+\lhead{\scriptsize{\textsc{enc 1101}}}
+
+\begin{document}
+%\bibliographystyle{abbrv}
+\thispagestyle{empty}
+%\vspace{-3in}
+
+%\twocolumn[
+\begin{center}
+\huge
+%{\includegraphics[height=1.5\baselineskip]{pegasus.pdf}}
+
+\textbf{Rhetorical Reading Response}
+
+{\normalsize Chris Friend • \textsc{enc1102} • Spring 2014}
+\end{center}
+%\vspace{\baselineskip}
+%] %Use for column-spanning the title
+
+\section{Metadata} % (fold)
+\label{sec:metadata}
+\begin{Form}
+	\begin{enumerate}
+		\item \TextField{Your name: }
+		\item \TextField{Name of author(s): }
+		\item \TextField[width=.5\textwidth]{Text title: }
+	\end{enumerate}
+\end{Form}
+
+% section metadata (end)
+
+% multiline=true, width=\linewidth,height=1in
+
+\section{Response} % (fold)
+\label{sec:response}
+\begin{form}	
+	\begin{enumerate}
+		\item \TextField[multiline=true, width=\linewidth,height=2\baselineskip]{What is the main claim that the author(s) make(s)? What evidence can you show?\\}
+		\item \TextField[multiline=true, width=\linewidth,height=4\baselineskip]{What are three pieces of evidence used by the author(s) to support this claim?\\}
+		\item \TextField[multiline=true, width=\linewidth,height=4\baselineskip]{What do you think/feel/believe about the claims made by the author(s)? Are they valid? Important? Why (not)?\\}
+		\item \TextField[multiline=true, width=\linewidth,height=5\baselineskip]{How does this text relate to another text used in this class (or in other courses/studies)? How are the authors of those two texts—not the texts themselves—interacting? (Consider whether they have compatible topics, direct references, common sources, shared theories/perspectives, etc.)\\}
+		\item \TextField[multiline=true, width=\linewidth,height=4\baselineskip]{Considering the course objectives, what will you take from this reading as you move forward? Why is this significant toward your growth as a college writer?\\}
+		\item \TextField[multiline=true, width=\linewidth,height=4\baselineskip]{What questions did this text prompt you to ask? List at least three that you think would make for interesting in-class conversation.\\}
+	\end{enumerate}
+\end{form}
+% section response (end)
+
+
+\end{document}
