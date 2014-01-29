@@ -3371,8 +3371,8 @@ Memo}</string>
 					<integer>556</integer>
 					<key>Points</key>
 					<array>
-						<string>{255.04594522272149, 352.286946521044}</string>
-						<string>{322.30962296970506, 329.02668047249705}</string>
+						<string>{255.04593733768377, 352.28694648542916}</string>
+						<string>{322.30961667844127, 329.02667287391341}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -3411,8 +3411,8 @@ Memo}</string>
 					<integer>557</integer>
 					<key>Points</key>
 					<array>
-						<string>{262.68828011032423, 327.30186315415165}</string>
-						<string>{320.10347987840373, 319.66970548973404}</string>
+						<string>{262.68826907674531, 327.30184780725352}</string>
+						<string>{320.10347977432082, 319.66966469743443}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -3451,8 +3451,8 @@ Memo}</string>
 					<integer>558</integer>
 					<key>Points</key>
 					<array>
-						<string>{302.37778759487077, 308.40783443666442}</string>
-						<string>{320.09762049830152, 309.74642580961597}</string>
+						<string>{302.37635600257539, 308.41031234380364}</string>
+						<string>{320.09761530295367, 309.74977110626946}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4635,8 +4635,8 @@ Memo}</string>
 					<integer>544</integer>
 					<key>Points</key>
 					<array>
-						<string>{293.16295356680132, 239.52247772353613}</string>
-						<string>{320.09740383921354, 241.48617180849655}</string>
+						<string>{293.16320385157411, 239.52197564914795}</string>
+						<string>{320.09740503518975, 241.48540066337324}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4675,8 +4675,8 @@ Memo}</string>
 					<integer>545</integer>
 					<key>Points</key>
 					<array>
-						<string>{268.41170213219505, 258.4237740693099}</string>
-						<string>{320.10385218216209, 251.40497758920432}</string>
+						<string>{268.41172977593561, 258.4238076243285}</string>
+						<string>{320.10385244482245, 251.40505980444127}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -5484,8 +5484,8 @@ Memo}</string>
 					<integer>575</integer>
 					<key>Points</key>
 					<array>
-						<string>{257.17683513528169, 491.83832832087842}</string>
-						<string>{320.12406329967558, 476.25072096146914}</string>
+						<string>{257.17683514197745, 491.838328323052}</string>
+						<string>{320.12406330058195, 476.25072097193294}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -5834,8 +5834,8 @@ Course Audit}</string>
 					<integer>583</integer>
 					<key>Points</key>
 					<array>
-						<string>{270.49980719587131, 466.95912158471918}</string>
-						<string>{320.09513605732002, 468.34709589067802}</string>
+						<string>{270.49980719587131, 466.95912157230367}</string>
+						<string>{320.09513605732002, 468.34709586457899}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -10939,7 +10939,7 @@ Lexia and Membership}</string>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{119, 201}, {1558, 1217}}</string>
+		<string>{{799, 426}, {1440, 874}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -10953,7 +10953,7 @@ Lexia and Membership}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-68, 99.5}, {711.5, 531}}</string>
+		<string>{{-38, 109.5}, {652.5, 359.5}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>
